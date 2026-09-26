@@ -66,7 +66,8 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
-![Uploading image.png…]()
+<img width="1289" height="1600" alt="WhatsApp Image 2026-09-26 at 12 38 47 PM" src="https://github.com/user-attachments/assets/a3a41565-f373-4310-935d-ad62733afab4" />
+
 
 
 ## Result
